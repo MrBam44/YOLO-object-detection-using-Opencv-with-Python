@@ -3,4 +3,4 @@ We’re going to learn in this blog YOLO object detection. Yolo is a deep learni
 
 
 
-Dowlnod [**yolo3 weights** ](https://pjreddie.com/media/files/yolov3.weights)
+Download [**yolo3 weights** ](https://pjreddie.com/media/files/yolov3.weights)
